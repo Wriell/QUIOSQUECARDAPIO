@@ -42,9 +42,7 @@ const balasDocesGelados = [
   { nome: "Balas, Doce e Chocolates 2", valor: 2 },
   { nome: "Balas, Doce e Chocolates 3", valor: 3 },
   { nome: "Balas, Doce e Chocolates 5", valor: 5 },
-  { nome: "Balas, Doce e Chocolates 8", valor: 8 },
-  { nome: "Balas, Doce e Chocolates 9", valor: 9 },
-  { nome: "Balas, Doce e Chocolates 10", valor: 10 }
+  { nome: "Balas, Doce e Chocolates 6", valor: 6 }
 ];
 
 const cappuccinos = [
